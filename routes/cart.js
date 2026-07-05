@@ -74,4 +74,4 @@ router.post('/:userId/clear', async (req, res) => {
   }
 });
 
-module.module.exports = router;
+module.exports = router;
